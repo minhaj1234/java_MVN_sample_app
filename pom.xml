@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>App</finalName>
+    <finalName>App1</finalName>
   </build>
 </project>
