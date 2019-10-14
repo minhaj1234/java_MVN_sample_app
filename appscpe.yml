@@ -5,3 +5,6 @@ files:
   - source: ./
     destination: /var/lib/tomcat8/webapps
     overwrite: yes
+    ApplicationStart:
+    - location: scripts/start.sh
+      timeout: 3600
