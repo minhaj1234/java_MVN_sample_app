@@ -1,1 +1,1 @@
-sudo service tomcat8 restart
+service tomcat8 restart
